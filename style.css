@@ -1,0 +1,31 @@
+/* 
+*Name: Xinyang Du 
+*UnityID: xdu24 
+*Date: 02/26/21 
+*Assignment: CSS & Styling 
+*Description: My information 
+*/ 
+   
+p{ 
+   background: #BBFFFF; 
+ } 
+
+ .class { 
+        font-family:'Arial', Times; 
+        border-collapse: collapse; 
+        width: 30%; 
+} 
+
+ 
+#id { 
+     border: 1px solid #00BFFF; 
+     text-align: left; 
+     padding: 8px; 
+} 
+
+ 
+.image{ 
+       border: 2px solid #00FF00; 
+       width: 200px; 
+       height: 250px; 
+}
